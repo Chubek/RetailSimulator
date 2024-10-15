@@ -1,6 +1,6 @@
 # Retail Simulator: WIP
 
-### Progress
+### Progress (Business Logic)
 
 - Created preliminaries of `Brand.lua`
 
@@ -11,4 +11,5 @@
 - Created preliminaries of `Merchendise.lua`
 
 
+### Next Stage: Add to Roblox 
 
