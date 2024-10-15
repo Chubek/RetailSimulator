@@ -1,5 +1,5 @@
 local Merchendise = {}
-Merchendise.__index = {}
+Merchendise.__index = Merchendise
 
 function Merchendise.new(info)
 	local self = setmetatable({}, Merchendise)
