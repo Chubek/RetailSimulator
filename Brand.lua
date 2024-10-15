@@ -1,5 +1,5 @@
 local Brand = {}
-brand.__index == Brand
+Brand.__index = Brand
 
 local BRANDTIER_Cheap = 1
 local BRANDTIER_Street = 2
