@@ -10,6 +10,7 @@
 
 - Created preliminaries of `Merchendise.lua`
 
+- Created preliminaries of `Customer.lua`
 
 ### Next Stage: Add to Roblox 
 
