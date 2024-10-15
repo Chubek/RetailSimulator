@@ -7,20 +7,19 @@ local BRANDTIER_Luxury = 3
 -- add more tiers
 
 function Brand.new(info)
-	local self = setmetatable({}, Brand)
+    local self = setmetatable({}, Brand)
 
-	self._info = info
+    self._info = info
 
-	return self
+    return self
 end
 
 function Brand:getTier()
-	return self._info.tier
+    return self._info.tier
 end
 
 function Brand:getName()
-	return self._info.name
+    return self._info.name
 end
-
 
 return Brand

@@ -12,5 +12,9 @@
 
 - Created preliminaries of `Customer.lua`
 
+##### Notes:
+
+- To pretty-print, run `luafmt -w replace *.lua`
+
 ### Next Stage: Add to Roblox 
 
